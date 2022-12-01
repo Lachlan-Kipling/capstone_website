@@ -1,0 +1,39 @@
+header{
+    height: 64px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-container{
+    display: flex;
+    justify-items: center;
+}
+
+img{
+    height: 100%;
+    margin-left: 24px;
+}
+
+h1{
+    font-weight: lighter;
+    color: gray;
+    font-size: 32px;
+    text-justify: auto;
+    margin: auto;
+}
+
+span{
+    font-weight: bold;
+    color: black;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-right: 24px;
+}
+
+li{
+    margin: 16px;
+}
